@@ -1,0 +1,11 @@
+C:\Users\Shane\Documents\J and J\CustomControls\Debugger\bin\Debug\Debugger.exe.config
+C:\Users\Shane\Documents\J and J\CustomControls\Debugger\bin\Debug\Debugger.exe
+C:\Users\Shane\Documents\J and J\CustomControls\Debugger\bin\Debug\Debugger.pdb
+C:\Users\Shane\Documents\J and J\CustomControls\Debugger\bin\Debug\CustomControls.dll
+C:\Users\Shane\Documents\J and J\CustomControls\Debugger\bin\Debug\CustomControls.pdb
+C:\Users\Shane\Documents\J and J\CustomControls\Debugger\obj\Debug\Debugger.csprojResolveAssemblyReference.cache
+C:\Users\Shane\Documents\J and J\CustomControls\Debugger\obj\Debug\Debugger.Properties.Resources.resources
+C:\Users\Shane\Documents\J and J\CustomControls\Debugger\obj\Debug\Debugger.csproj.GenerateResource.Cache
+C:\Users\Shane\Documents\J and J\CustomControls\Debugger\obj\Debug\Debugger.exe
+C:\Users\Shane\Documents\J and J\CustomControls\Debugger\obj\Debug\Debugger.pdb
+C:\Users\Shane\Documents\J and J\CustomControls\Debugger\obj\Debug\Debugger.Form1.resources
